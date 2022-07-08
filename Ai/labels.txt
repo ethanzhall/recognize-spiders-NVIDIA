@@ -1,0 +1,8 @@
+0 Wolf spider
+1 Tarantula
+2 Jumping spider
+3 Daddy long legs
+4 Banna spider
+5 Brown Recluse
+6 Black widow
+7 Crab spider
